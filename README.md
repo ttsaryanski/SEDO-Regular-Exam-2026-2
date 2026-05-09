@@ -1,3 +1,6 @@
-### Test Jenkins pipeline
+⚠️ Experimental repository - Used for learning and testing:
 
-- **Test 1**
+- GitHub Action
+- Jenkins
+
+Not intended for production use.
